@@ -1,0 +1,15 @@
+.labels {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.labels span {
+    color: #666;
+}
+.progress {
+height: 5px;
+}
+.progress-bar {
+background: -webkit-linear-gradient(left, #33156d 0%,#f282bc 100%); /* Chrome10-25,Safari5.1-6 */
+}
